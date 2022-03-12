@@ -5,8 +5,6 @@ import {ImSearch} from "react-icons/im"
 
 
 
-
-
 const Navbar = () => {
   return (
     
