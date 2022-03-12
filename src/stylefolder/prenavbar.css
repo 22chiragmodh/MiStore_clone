@@ -1,0 +1,29 @@
+.prenav{
+    background-color:rgb(29,28,28);
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding: 0.6vmax;
+}
+.prenav div{
+    padding:0.5vmax 4vmax;
+}
+.prenav div a{
+    color:rgba(180,180,180);
+    font-size: 1vmax;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:300;
+    margin: 1vmax;
+    text-decoration: none;
+    justify-content:flex-start
+}
+.prenav div a:hover{
+  color: crimson;
+  
+}
+.prenav div span{
+   color:rgba(180,180,180,0.644);
+   font-size: 0.8vmax;
+
+   font-weight:100;
+}

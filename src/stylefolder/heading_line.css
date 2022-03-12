@@ -1,0 +1,16 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading div{
+    background-color:rgba(38,39,38,0.275);
+    height: 1px;
+    width: 30vw;
+}
+.heading p{
+    margin: 2.4vmax;
+    font-size:2vmax;
+    font-family: 'Courier New', Courier, monospace;
+    color: rbg(77,78,77);
+}

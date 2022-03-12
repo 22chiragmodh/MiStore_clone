@@ -1,0 +1,7 @@
+.nav-route{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    padding:1.8vmax;
+    z-index: 1;
+}
